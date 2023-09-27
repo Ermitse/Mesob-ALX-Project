@@ -1,5 +1,5 @@
 # MESOB
-#  <img src="/img/unit-converter.jpg">
+#  <img src="/src/mesob_logo.png">
 Mesob is digital menu that is used to show the list of food and drinks provided by the restaurant. The menu comes in the form of a website with titlees,
 * All (that views everything)
 * Lunch
